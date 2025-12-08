@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "サインはB -ルビー Solo Ver.-",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）",
+  "createdAt": "2025-12-08T17:00:34.307306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "MEMちょ",
+      "has_synced": true,
+      "path": "select/01_サインはB_-ルビー_Solo_Ver.-_MEMちょ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/02_サインはB_-ルビー_Solo_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)",
+      "has_synced": true,
+      "path": "select/03_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV_伊駒ゆりえ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町 ルビー(CV.伊駒ゆりえ)",
+      "has_synced": true,
+      "path": "select/04_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV.伊駒ゆりえ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B-Komachi ルビー(CV:伊駒ゆりえ)",
+      "has_synced": true,
+      "path": "select/05_サインはB_-ルビー_Solo_Ver.-_B-Komachi_ルビー(CV_伊駒ゆりえ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/06_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)、有馬かな(CV：潘めぐみ)、MEMちょ(CV：大久保瑠美)",
+      "has_synced": true,
+      "path": "select/07_サインはB_-ルビー_Solo_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サインはB -ルビー Solo Ver.-",
+      "artist": "B小町 Ruby(CV:Yurie Igoma)、Kana Arima(CV:Megumi Han)、MEMちょ(CV:Rumi Ookubo)",
+      "has_synced": true,
+      "path": "select/08_サインはB_-ルビー_Solo_Ver.-_B小町_Ruby(CV_Yurie_Igoma)、Kana_Arima(CV_Megumi_Han)、MEMちょ(CV_Rumi_Ookubo).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サインはB -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_サインはB_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
